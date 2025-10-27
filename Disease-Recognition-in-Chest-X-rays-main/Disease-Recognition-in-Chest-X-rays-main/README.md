@@ -22,8 +22,6 @@ Throughout the project, I acquired a comprehensive understanding of various aspe
 ## Contributions
 Contributions to the project are welcome! Whether it's through code improvements, dataset enhancements, or documentation updates, your contributions can help advance the effectiveness and usability of the disease recognition system.
 
-## License
-This project is licensed under the [MIT License](LICENSE), allowing for open collaboration and distribution.
 
 ## Acknowledgments
 Special thanks to the open-source community for providing invaluable resources, and to medical professionals for their insights and expertise in guiding this research.
