@@ -28,7 +28,7 @@ This project is licensed under the [MIT License](LICENSE), allowing for open col
 ## Acknowledgments
 Special thanks to the open-source community for providing invaluable resources, and to medical professionals for their insights and expertise in guiding this research.
 
-For any inquiries or suggestions, feel free to reach out via email at [adityasatope@gmail.com](mailto:adityasatope@gmail.com).
+For any inquiries or suggestions, feel free to reach out via email at [nikhil.ranjan10201@gmail.com](mailto:nikhil.ranjan10201@gmail.com).
 
 ---
 *Disclaimer: This project is for educational and research purposes only. It should not be used as a substitute for professional medical diagnosis or treatment.*
